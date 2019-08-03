@@ -221,7 +221,7 @@ hi! link ErrorMsg     DraculaRedInverse
 hi! link FoldColumn   DraculaSubtle
 hi! link Folded       DraculaBoundary
 hi! link IncSearch    DraculaOrangeInverse
-hi! link LineNr       DraculaComment
+hi! link LineNr       DraculaGreen
 hi! link MoreMsg      DraculaFgBold
 hi! link NonText      DraculaSubtle
 hi! link Pmenu        DraculaBgDark
@@ -282,14 +282,14 @@ hi! link Operator DraculaPink
 hi! link Keyword DraculaPink
 hi! link Exception DraculaPink
 
-hi! link PreProc DraculaPink
-hi! link Include DraculaPink
-hi! link Define DraculaPink
-hi! link Macro DraculaPink
-hi! link PreCondit DraculaPink
-hi! link StorageClass DraculaPink
-hi! link Structure DraculaPink
-hi! link Typedef DraculaPink
+hi! link PreProc DraculaOrangeItalic
+hi! link Include DraculaOrangeItalic
+hi! link Define DraculaOrangeItalic
+hi! link Macro DraculaOrangeItalic
+hi! link PreCondit DraculaOrangeItalic
+hi! link StorageClass DraculaOrange
+hi! link Structure DraculaOrange
+hi! link Typedef DraculaOrange
 
 hi! link Type DraculaCyanItalic
 
